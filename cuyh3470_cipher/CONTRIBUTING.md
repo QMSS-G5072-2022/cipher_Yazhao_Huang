@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `cipher_yh3470` for local development.
+Ready to contribute? Here's how to set up `cuyh3470_cipher` for local development.
 
-1. Download a copy of `cipher_yh3470` locally.
-2. Install `cipher_yh3470` using `poetry`:
+1. Download a copy of `cuyh3470_cipher` locally.
+2. Install `cuyh3470_cipher` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `cipher_yh3470` project is released with a
+Please note that the `cuyh3470_cipher` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

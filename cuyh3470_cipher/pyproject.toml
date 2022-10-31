@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cipher_yh3470"
+name = "cuyh3470_cipher"
 version = "0.1.0"
-description = "cipher"
+description = "A package for doing great things!"
 authors = ["Yazhao Huang"]
 license = "MIT"
 readme = "README.md"

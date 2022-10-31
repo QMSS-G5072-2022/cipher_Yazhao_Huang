@@ -4,4 +4,4 @@
 
 ## v0.1.0 (30/10/2022)
 
-- First release of `cipher_yh3470`!
+- First release of `cuyh3470_cipher`!

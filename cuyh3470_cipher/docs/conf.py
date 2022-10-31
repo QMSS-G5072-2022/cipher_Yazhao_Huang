@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"cipher_yh3470"
+project = u"cuyh3470_cipher"
 copyright = u"2022, Yazhao Huang"
 author = u"Yazhao Huang"
 

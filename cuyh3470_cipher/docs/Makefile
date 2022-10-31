@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = cipher_yh3470
+SPHINXPROJ    = cuyh3470_cipher
 SOURCEDIR     = .
 BUILDDIR      = _build
 
