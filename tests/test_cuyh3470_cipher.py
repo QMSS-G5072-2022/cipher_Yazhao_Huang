@@ -1,6 +1,6 @@
-from cuyh3470_cipher import cuyh3470_cipher
-
+from cuyh3470_cipher import cipher
 import pytest
+
 
 def test_cipher_a():
     example = 'Lisa'
