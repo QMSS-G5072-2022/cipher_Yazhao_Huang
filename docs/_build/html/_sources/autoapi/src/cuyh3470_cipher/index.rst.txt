@@ -1,0 +1,42 @@
+:py:mod:`src.cuyh3470_cipher`
+=============================
+
+.. py:module:: src.cuyh3470_cipher
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   src.cuyh3470_cipher.cipher
+
+
+
+.. py:function:: cipher(text, shift, encrypt=True)
+
+   This fuction conducts Caesar cipher
+   Casser cipher is one of the simplest and mose widely known encryption techniques.
+   Each letter is replaced by a letter some fixed number of positions down (encryptiont) or up (decription) the alphabet.
+
+   :param text:
+   :type text: sting
+   :param shift:
+   :type shift: int
+   :param encrypt:
+   :type encrypt: boolean value (default : True)
+
+   :returns: New text encrypted/decrypted
+   :rtype: string
+
+   .. rubric:: Examples
+
+   >>> text = "ababa."
+   >>> cipher(text = text, shift = 1, encrypt=True)
+   'bcbcb.'
+
+
